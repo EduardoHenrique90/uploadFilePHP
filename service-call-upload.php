@@ -3,13 +3,13 @@
 // de $_FILES.
 
 $currentDir = getcwd();
-$uploadDirectory = "/invoices/";
+$uploadDirectory = "/service_call/";
 // $uploadPath = $currentDir . $uploadDirectory . basename($_FILES['userfile']['name']); 
 // $uploadfile = $uploaddir . basename($_FILES['userfile']['name']);
 
 $errors = []; // Store all foreseen and unforseen errors here
 
-$dir = $_POST['invoice_id'];
+$dir = $_POST['service_call_id'];
 $fileName = $_FILES['file']['name'];
 $fileSize = $_FILES['file']['size'];
 $fileTmpName  = $_FILES['file']['tmp_name'];
@@ -37,5 +37,9 @@ $uploadPath = $currentDir . $uploadDirectory . $dir . '/' . basename($fileName);
             return $error . "These are the errors" . "\n";
         }
     }
+// }else{
+//     echo 'BOSTA';
+// }
+
 
 ?>
