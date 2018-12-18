@@ -1,4 +1,8 @@
 <?php
+header("Access-Control-Allow-Origin: *");
+header('Access-Control-Allow-Methods: GET, POST, DELETE, PUT, OPTIONS');
+header('Access-Control-Allow-Headers: Origin, Content-Type, Accept, Authorization, X-Request-With');
+header('Access-Control-Allow-Credentials: true');
 // Nas versões do PHP anteriores a 4.1.0, $HTTP_POST_FILES deve ser utilizado ao invés
 // de $_FILES.
 
@@ -9,7 +13,7 @@ $uploadDirectory = "/service_call/";
 
 $errors = []; // Store all foreseen and unforseen errors here
 
-$dir = $_POST['service_call_id'];
+$dir = $_POST['invoice_id'];
 $fileName = $_FILES['file']['name'];
 $fileSize = $_FILES['file']['size'];
 $fileTmpName  = $_FILES['file']['tmp_name'];
@@ -37,9 +41,5 @@ $uploadPath = $currentDir . $uploadDirectory . $dir . '/' . basename($fileName);
             return $error . "These are the errors" . "\n";
         }
     }
-// }else{
-//     echo 'BOSTA';
-// }
-
 
 ?>
