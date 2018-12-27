@@ -21,7 +21,7 @@ $fileSize = $_FILES['file']['size'];
 $fileTmpName  = $_FILES['file']['tmp_name'];
 $fileType = $_FILES['file']['type'];
 $fileExtension = strtolower(end(explode('.',$fileName)));
-mkdir($currentDir . $uploadDirectory.'/'.$dir, 0755);
+mkdir($currentDir . $uploadDirectory.'/'.$dir, 0777);
 $uploadPath = $currentDir . $uploadDirectory . $dir . '/' . basename($fileName); 
 
 // if (isset($_POST['submit'])) {

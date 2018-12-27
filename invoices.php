@@ -1,4 +1,4 @@
-p<?php
+<?php
 header("Access-Control-Allow-Origin: *");
 header('Access-Control-Allow-Methods: GET, POST, DELETE, PUT, OPTIONS');
 header('Access-Control-Allow-Headers: Origin, Content-Type, Accept, Authorization, X-Request-With');
@@ -19,7 +19,7 @@ $fileSize = $_FILES['file']['size'];
 $fileTmpName  = $_FILES['file']['tmp_name'];
 $fileType = $_FILES['file']['type'];
 $fileExtension = strtolower(end(explode('.',$fileName)));
-mkdir($currentDir . $uploadDirectory.'/'.$dir, 0755);
+mkdir($currentDir . $uploadDirectory.'/'.$dir, 0777);
 $uploadPath = $currentDir . $uploadDirectory . $dir . '/' . basename($fileName); 
 
 // if (isset($_POST['submit'])) {
