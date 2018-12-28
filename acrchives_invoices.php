@@ -7,7 +7,7 @@ header('Access-Control-Allow-Credentials: true');
 // de $_FILES.
 
 $currentDir = getcwd();
-$uploadDirectory = "/invoices/";
+$uploadDirectory = "/invoices/".$_POST['invoice_id']."/archives/";
 // $uploadPath = $currentDir . $uploadDirectory . basename($_FILES['userfile']['name']); 
 // $uploadfile = $uploaddir . basename($_FILES['userfile']['name']);
 

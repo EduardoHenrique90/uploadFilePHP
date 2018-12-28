@@ -7,7 +7,7 @@ header('Access-Control-Allow-Credentials: true');
 // de $_FILES.
 
 $currentDir = getcwd();
-$uploadDirectory = "/invoices/";
+$uploadDirectory = "/service_call/";
 // $uploadPath = $currentDir . $uploadDirectory . basename($_FILES['userfile']['name']); 
 // $uploadfile = $uploaddir . basename($_FILES['userfile']['name']);
 
