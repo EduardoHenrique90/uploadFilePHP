@@ -13,7 +13,7 @@ $uploadDirectory = "/service_call/";
 
 $errors = []; // Store all foreseen and unforseen errors here
 
-$dir = $_POST['invoice_id'];
+$dir = $_POST['service_call_id'];
 $fileName = $_FILES['file']['name'];
 $fileSize = $_FILES['file']['size'];
 $fileTmpName  = $_FILES['file']['tmp_name'];
