@@ -11,15 +11,15 @@ $uploadDirectory = "/invoices/".$_POST['invoice_id']."/archives/";
 // $uploadPath = $currentDir . $uploadDirectory . basename($_FILES['userfile']['name']); 
 // $uploadfile = $uploaddir . basename($_FILES['userfile']['name']);
 
+mkdir($currentDir . $uploadDirectory, 0777); //cria pasta arquives dentro do nefocio de invoice
 $errors = []; // Store all foreseen and unforseen errors here
-
-$dir = $_POST['invoice_id'];
+$dir = $_POST['archive_id'];
 $fileName = $_FILES['file']['name'];
 $fileSize = $_FILES['file']['size'];
 $fileTmpName  = $_FILES['file']['tmp_name'];
 $fileType = $_FILES['file']['type'];
 $fileExtension = strtolower(end(explode('.',$fileName)));
-mkdir($currentDir . $uploadDirectory.'/'.$dir, 0777);
+mkdir($currentDir . $uploadDirectory . $dir, 0777);
 $uploadPath = $currentDir . $uploadDirectory . $dir . '/' . basename($fileName); 
 
 // if (isset($_POST['submit'])) {
