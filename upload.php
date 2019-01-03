@@ -43,9 +43,5 @@ $uploadPath = $currentDir . $uploadDirectory . $dir . '/' . basename($fileName);
             return $error . "These are the errors" . "\n";
         }
     }
-// }else{
-//     echo 'BOSTA';
-// }
-
 
 ?>

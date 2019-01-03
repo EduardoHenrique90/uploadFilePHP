@@ -7,19 +7,19 @@ header('Access-Control-Allow-Credentials: true');
 // de $_FILES.
 
 $currentDir = getcwd();
-$uploadDirectory = "/service_call/";
+$uploadDirectory = "/invoices/".$_POST['invoice_id']."/archives/";
 // $uploadPath = $currentDir . $uploadDirectory . basename($_FILES['userfile']['name']); 
 // $uploadfile = $uploaddir . basename($_FILES['userfile']['name']);
 
+mkdir($currentDir . $uploadDirectory, 0755); //cria pasta arquives dentro do nefocio de invoice
 $errors = []; // Store all foreseen and unforseen errors here
-
-$dir = $_POST['service_call_id'];
+$dir = $_POST['archive_id'];
 $fileName = $_FILES['file']['name'];
 $fileSize = $_FILES['file']['size'];
 $fileTmpName  = $_FILES['file']['tmp_name'];
 $fileType = $_FILES['file']['type'];
 $fileExtension = strtolower(end(explode('.',$fileName)));
-mkdir($currentDir . $uploadDirectory.'/'.$dir, 0755);
+mkdir($currentDir . $uploadDirectory . $dir, 0755);
 $uploadPath = $currentDir . $uploadDirectory . $dir . '/' . basename($fileName); 
 
 // if (isset($_POST['submit'])) {
