@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>File Upload with PHP</title>
+    <title>File Upload with php</title>
 </head>
 <body>
     <form action="upload.php" method="post" enctype="multipart/form-data">
