@@ -1,0 +1,37 @@
+RELAÇÃO DE SEGURADOS ATIVOS
+
+
+Dados da Empresa
+
+Razão Social:       OITAVO OFICIAL DE REGISTRO DE IMOVEIS                          Período de Competência: 01/10/2018
+Empresa nº:         3 - 0774
+Apól./Desd.-CD:     344850005
+Ramo (Cód. e Nome): 884 GRUPAL                                                     Valor da US do mês:     1,2091
+
+Matrícula        Plano  CR  Nome do Segurado                 Data Nasc  Idade  Parentesco  Data Incl.        Custo US  Pr. Saúde Fx R$     Pr. Saúde R$       % Agravo      Qtd Dias Fat      Pr. Agr. R$      Pr. Vida R$       Prêmio Total R$      TIPO LIMINAR
+
+70001            00412  00  RENATA PALMA VICENTE             22/03/1980 038    TITULAR     01/07/2009        940,1500             0,00         1.136,76        0,00000                30             0,00             0,00              1.136,76                  
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00         1.136,76        0,00000                00             0,00             0,00              1.136,76                  
+97001            00412  00  ALINNE SILVA PLACIDO             13/03/1985 033    TITULAR     01/07/2009        940,1500             0,00         1.136,76        0,00000                30             0,00             0,00              1.136,76                  
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00         1.136,76        0,00000                00             0,00             0,00              1.136,76                  
+                 00000  00  TOTAL DO PLANO                              000    2                               0,0000             0,00         2.273,52        0,00000                00             0,00             0,00              2.273,52                  
+33001            03741  99  MARIA AP DE FREITAS LIMA ASSIS   25/03/1968 050    TITULAR     01/07/2009        721,4400             0,00           872,31        0,00000                30             0,00             0,00                872,31                  
+33002            03741  99  SIRIO JOSE DE ASSIS              31/10/1963 055    CONJUGE     01/07/2009        721,4400             0,00           872,31        0,00000                30             0,00             0,00                872,31                  
+33010            03741  99  GABRIEL MEDEIROS LIMA ASSIS      11/01/1999 019    FILHOS      01/07/2009        721,4400             0,00           872,31        0,00000                30             0,00             0,00                872,31                  
+                 00000  00  TOTAL DA FAMILIA                            000    3                               0,0000             0,00         2.616,93        0,00000                00             0,00             0,00              2.616,93                  
+65001            03741  99  RUTH RODRIGUES MUSSULINI         01/04/1983 035    TITULAR     01/07/2009        721,4400             0,00           872,31        0,00000                30             0,00             0,00                872,31                  
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00           872,31        0,00000                00             0,00             0,00                872,31                  
+68001            03741  99  MARCELO RIBEIRO GUIMARAES        01/10/1977 041    TITULAR     01/07/2009        721,4400             0,00           872,31        0,00000                30             0,00             0,00                872,31                  
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00           872,31        0,00000                00             0,00             0,00                872,31                  
+145001           03741  99  CORINA MORBI RODRIGUES CUNHA     06/12/1979 038    TITULAR     01/09/2011        721,4400             0,00           872,31        0,00000                30             0,00             0,00                872,31                  
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00           872,31        0,00000                00             0,00             0,00                872,31                  
+                 00000  00  TOTAL DO PLANO                              000    6                               0,0000             0,00         5.233,86        0,00000                00             0,00             0,00              5.233,86                  
+82001            09843  00  MARIA R MEDEIROS BEZERRA         30/05/1974 044    TITULAR     01/07/2011        655,8400             0,00           792,99        0,00000                30             0,00             0,00                792,99                  
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00           792,99        0,00000                00             0,00             0,00                792,99                  
+                 00000  00  TOTAL DO PLANO                              000    1                               0,0000             0,00           792,99        0,00000                00             0,00             0,00                792,99                  
+                 00000  00  TOTAL GERAL                                 000    9                               0,0000             0,00         8.300,37        0,00000                00             0,00             0,00              8.300,37                  
+
+Todos os prêmios estão descritos sem IOF
+
+Legenda
+CR = Código da Região

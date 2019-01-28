@@ -1,0 +1,34 @@
+RELAÇÃO DE SEGURADOS ATIVOS
+
+
+Dados da Empresa
+
+Razão Social:       D & L ASSESSORIA E TECNOLOGIA LTDA                             Período de Competência: 01/12/2018
+Empresa nº:         8 - JJDB
+Apól./Desd.-CD:     681920041
+Ramo (Cód. e Nome): 884 GRUPAL                                                     Valor da US do mês:     0,5000
+
+Matrícula        Plano  CR  Nome do Segurado                 Data Nasc  Idade  Parentesco  Data Incl.        Custo US  Pr. Saúde Fx R$     Pr. Saúde R$       % Agravo      Qtd Dias Fat      Pr. Agr. R$      Pr. Vida R$       Prêmio Total R$       TIPO LIMINAR
+
+794168001        23646  99  DONG LIM LEE                     12/05/1970 048    TITULAR     01/08/2018        997,4100             0,00           498,70        0,00000                30             0,00             0,00                498,70          
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00           498,70        0,00000                00             0,00             0,00                498,70          
+794167001        23646  99  LUCILA DAUNT COELHO              29/07/1974 044    TITULAR     01/08/2018        997,4100             0,00           498,70        0,00000                30             0,00             0,00                498,70          
+                 00000  00  TOTAL DA FAMILIA                            000    1                               0,0000             0,00           498,70        0,00000                00             0,00             0,00                498,70          
+                 00000  00  TOTAL GERAL                                 000    2                               0,0000             0,00           997,40        0,00000                00             0,00             0,00                997,40          
+
+Total Segurados Ativos + IOF: 1.021,14
+
+ Legenda
+ CR = Código da Região
+
+ Legenda Liminar
+ RV - Redução de Valor
+ BC - Bloqueio de Comissão
+ VF - Valor Fixo
+ FE - Faixa Etária
+ AG - Agravo
+ RB - Redução de Valor + Bloqueio de Comissão
+ VB - Valor Fixo + Bloqueio de Comissão
+ FB - Faixa Etária  + Bloqueio de Comissão
+ AB - Agravo +  Bloqueio de Comissão
+

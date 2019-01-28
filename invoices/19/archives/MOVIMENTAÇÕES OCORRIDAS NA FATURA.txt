@@ -1,0 +1,21 @@
+MOVIMENTAÇÕES OCORRIDAS NA FATURA
+
+Dados da Empresa
+
+Razão Social:       LOTUS GLOBAL MARKETING LTDA                                    Período de Competência: 01/10/2018
+Empresa nº:         8 - J9SY
+Apól./Desd.-CD:     702980005
+Ramo (Cód. e Nome): 884 GRUPAL                                                     Valor da US do mês:     1,0000
+
+Tipo Mov.  Código Segurado  Plano Atu  Nome do Segurado                  Matrícula  Data Nasc  Idade  Parentesco  Plano Ant  Data Inclu  Data Exclu  Data Moviv    Custo US    Qtd Dias Fat      Prêmio Vida R$       Prêmio Saúde R$      TIPO LIMINAR
+
+EM         888800784167001  34740      DANIELI CAVALCANTI DANIEL         1180      30/10/1990 028    TITULAR     00000      01/07/2018  30/09/2018                   0,0000              30                0,00                  0,00                  
+
+Todos os prêmios estão descritos sem IOF
+
+Legenda
+Data Mov. = Data da Movimentação
+Tipo Mov. = (EM) EXCLUSAO MES
+            (IP) Inclusão Pró-rata
+            (EP) Exclusão Pró-rata
+

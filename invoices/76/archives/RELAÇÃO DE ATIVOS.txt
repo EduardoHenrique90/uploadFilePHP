@@ -1,0 +1,35 @@
+RELAÇÃO DE SEGURADOS ATIVOS
+
+
+Dados da Empresa
+
+Razão Social:       MARTHA COLPAERT D  ANGELINO                                    Período de Competência: 01/12/2018
+Empresa nº:         8 - J9SZ
+Apól./Desd.-CD:     702980013
+Ramo (Cód. e Nome): 884 GRUPAL                                                     Valor da US do mês:     1,0000
+
+Matrícula        Plano  CR  Nome do Segurado                 Data Nasc  Idade  Parentesco  Data Incl.        Custo US  Pr. Saúde Fx R$     Pr. Saúde R$       % Agravo      Qtd Dias Fat      Pr. Agr. R$      Pr. Vida R$       Prêmio Total R$       TIPO LIMINAR
+
+140001           34743  99  MARTHA COLPAERT DANGELINO        12/11/1978 040    TITULAR     01/07/2018        724,7200             0,00           724,72        0,00000                30             0,00             0,00                724,72          
+140010           34743  99  NICHOLAS COLPAERT DANGELINO      31/01/2013 005    FILHOS      01/07/2018        339,3700             0,00           339,37        0,00000                30             0,00             0,00                339,37          
+140011           34743  99  PAOLA COLPAERT DANGELINO         31/01/2013 005    FILHOS      01/07/2018        339,3700             0,00           339,37        0,00000                30             0,00             0,00                339,37          
+140002           34743  99  RUBENS HENRIQUE RAMOS DANGELINO  20/05/1978 040    CONJUGE     01/07/2018        724,7200             0,00           724,72        0,00000                30             0,00             0,00                724,72          
+                 00000  00  TOTAL DA FAMILIA                            000    4                               0,0000             0,00         2.128,18        0,00000                00             0,00             0,00              2.128,18          
+                 00000  00  TOTAL GERAL                                 000    4                               0,0000             0,00         2.128,18        0,00000                00             0,00             0,00              2.128,18          
+
+Total Segurados Ativos + IOF: 2.178,83
+
+ Legenda
+ CR = Código da Região
+
+ Legenda Liminar
+ RV - Redução de Valor
+ BC - Bloqueio de Comissão
+ VF - Valor Fixo
+ FE - Faixa Etária
+ AG - Agravo
+ RB - Redução de Valor + Bloqueio de Comissão
+ VB - Valor Fixo + Bloqueio de Comissão
+ FB - Faixa Etária  + Bloqueio de Comissão
+ AB - Agravo +  Bloqueio de Comissão
+
